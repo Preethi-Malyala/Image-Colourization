@@ -19,3 +19,7 @@ Summer of Code
 20th May to 22nd May - Convolutional Neural Networks (https://www.google.com/amp/s/ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/amp/)
 
 28th April to 3rd May - pytorch (https://pytorch.org/tutorials/beginner/basics/intro.html)
+
+9th June to 13th June - CNN Architectures (https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K videos 51-57)
+
+
