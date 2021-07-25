@@ -22,4 +22,8 @@ Summer of Code
 
 9th June to 13th June - CNN Architectures (https://www.youtube.com/playlist?list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K videos 51-57)
 
+29th June to 5th July - GAN learning and implementation (https://arxiv.org/abs/1406.2661)
 
+9th July to 13th July - DCGAN learning and implementation (https://arxiv.org/abs/1511.06434)
+
+15th July to 23rd July - Pix2Pix GAN reading and implementation (https://arxiv.org/abs/1611.07004)
